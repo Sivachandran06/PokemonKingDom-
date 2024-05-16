@@ -8,7 +8,7 @@ function BackDrop(props) {
           const id = elemetn.id;
           if (id === "containerbackdrop") {
             onClose();
-          }
+          } 
         }}
         style={{
           position: "fixed",
